@@ -1,0 +1,10 @@
+{
+  "template": "C:\\workspace\\git_repo\\vue\\vue-electron-template",
+  "output": "C:\\Users\\lx\\Desktop\\copytest\\output8",
+  "worker_num": 20,
+  "separator": "xxx",
+  "fields": {
+    "name": "张三",
+    "address": "石家庄"
+  }
+}
